@@ -4,7 +4,7 @@ Este programa permite extraer rápidamente fotos de un árbol de carpetas y copi
 
 ## Cómo usar
 1. Ejecuta el programa.
-2. Selecciona la carpeta de origen (donde están las fotos).
+2. Selecciona la carpeta raíz (donde están las fotos).
 3. Selecciona la carpeta de destino (donde se guardarán las fotos).
 4. Haz clic en "Extraer Fotos".
 
